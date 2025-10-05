@@ -1,6 +1,6 @@
 # UCC28881 Power Module
 Compact SIL-style power module based on Texas Instruments UC28881 controller, designed in KiCad
-## Project Overview
+## Project Overview 
 **Design and simulate UC28881-based power supply**
 **Verify operation through SPICE simulation in KiCad**
 **Create a compact SIL-style PCB optimized for thermal performance and manufacturability**
