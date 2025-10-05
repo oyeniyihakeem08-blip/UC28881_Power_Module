@@ -17,4 +17,4 @@ Compact SIL-style power module based on Texas Instruments UC28881 controller, de
 **KiCad SPICE Simulator**  
 **GitHub** for version control and project sharing
 ## Author
-Designed and maintained by [Oyebisi Hakeem]
+Designed and maintained by Oyebisi Hakeem
